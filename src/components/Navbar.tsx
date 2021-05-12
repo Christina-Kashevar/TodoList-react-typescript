@@ -32,14 +32,6 @@ export const Navbar: React.FunctionComponent<{
               </label>
             </div>
           </li>
-
-          {/* <div className='input-field'>
-          {" "}
-          <select onChange={(e) => props.onChange(e.target.value)}>
-            <option value={locales.RU}>RU</option>
-            <option value={locales.EN}>EN</option>
-          </select>
-        </div> */}
         </ul>
       </div>
     </nav>
